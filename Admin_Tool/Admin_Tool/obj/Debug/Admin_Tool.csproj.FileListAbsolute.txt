@@ -1,0 +1,9 @@
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\bin\Debug\Admin_Tool.exe.config
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\bin\Debug\Admin_Tool.exe
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\bin\Debug\Admin_Tool.pdb
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.csprojResolveAssemblyReference.cache
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.Properties.Resources.resources
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.csproj.GenerateResource.Cache
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.exe
+c:\users\jeh19686\documents\visual studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.pdb
+C:\Users\jeh19686\Documents\Visual Studio 2015\Projects\Admin_Tool\Admin_Tool\obj\Debug\Admin_Tool.AdminTool.resources
